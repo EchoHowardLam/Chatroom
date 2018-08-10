@@ -1,3 +1,11 @@
+*.depend
+*.layout
+*.cbp
+trash.*
+*.zip
+*.dat
+*.txt
+
 # Compiled Object files
 *.slo
 *.lo
